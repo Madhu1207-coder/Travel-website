@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Project-Type-Frontend-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Responsive-Design-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tech-HTML%2FCSS%2FJS-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project--Type-Frontend-blue?style=for-the-badge" alt="Project Type"/>
+  <img src="https://img.shields.io/badge/Responsive--Design-✔️-success?style=for-the-badge" alt="Responsive Design"/>
+  <img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-yellow?style=for-the-badge" alt="Tech Stack"/>
 </p>
 
 
@@ -22,6 +22,17 @@
 - 💡 **Serve as Portfolio Piece**: Present as a polished showcase for frontend development skills.
 
 ---
+
+## 🎥 Live Demo
+
+<p align="center">
+  📺 <b>Watch the full demo on YouTube</b><br><br>
+  <a href="https://www.youtube.com/watch?v=RLjY7ICh-ZI" target="_blank">
+    <img src="https://img.youtube.com/vi/RLjY7ICh-ZI/0.jpg" alt="Watch Video" style="border-radius: 12px; width: 60%; max-width: 600px;">
+  </a><br><br>
+  🔗 <a href="https://www.youtube.com/watch?v=RLjY7ICh-ZI" target="_blank"><b>Click here to watch the Travel Website Demo on YouTube</b></a>
+</p>
+
 
 ## ✨ Key Features
 
@@ -61,6 +72,14 @@
   - Ready for backend integration with Flask or PHP.
 
 ---
+
+
+
+# preview 
+![Galery page ](https://github.com/user-attachments/assets/606cedad-2bc1-433b-8764-553ef003eb23)
+![book page ](https://github.com/user-attachments/assets/95acd423-e799-4dd5-9dac-c2149f266c89)
+![Package page](https://github.com/user-attachments/assets/293bac2a-d966-4fdc-9fd2-d75434abf77e)
+![home page](https://github.com/user-attachments/assets/5209cb7b-7330-4b40-b633-5dd0d5743c90)
 
 ## 🛠️ Tech Stack & Tools
 
@@ -166,11 +185,35 @@ Travel-website/
 
 
 
+
+### ⚠️ Important Notice
+
+This project is created and maintained by **Madhumitha B** for learning and demonstration purposes only.  
+❌ Do **not** reuse, submit, or claim this work as your own project or academic submission.  
+🛡️ Protected under copyright law — unauthorized use or duplication is prohibited.
+
+📩 Contact: madhumithab1207@gmail.com for any inquiries.
+
+
+
+## 🙏 Thank You!
+
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/a2418f60390643.5a4b910e63f83.gif" alt="Thank You GIF" width="300" style="border-radius: 12px;" />
+</p>
+
+
 ## ⭐ Feedback & Contributions
 
 * 🌟 Star this repo if you like the project!
 * 🐛 Found a bug? Create an issue!
 * 🧩 Want to contribute? Fork → Create branch → Pull Request.
 * 🤝 Open to collaborations for frontend or real-time travel sites.
+
+  
+
+
+
+
 
 
